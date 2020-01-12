@@ -1,3 +1,5 @@
+This was a very small experiment. A library with a great design (and similar base ideas) is Wolf Vollprecht's scikit-geometry (https://github.com/scikit-geometry/scikit-geometry). 
+
 # Installation
 
 In order to compile this, you need to install:
